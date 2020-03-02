@@ -7,3 +7,7 @@ let num2 = Number(prompt("Enter second number"))
 
 alert(`The sum is ${num1 + num2}.`)
 */
+
+
+
+
